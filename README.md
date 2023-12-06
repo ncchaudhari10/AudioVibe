@@ -2,8 +2,7 @@
 
 ## Overview
 
-AudioVibe is a music platform that offers a vast catalog of music accessible to users across various countries. The platform provides key functionalities such as user profile management, playlist creation, and seamless music streaming. This document provides an overview of the project, its key features, data sources, tools used, team roles, and data insights.
-
+AudioVibe is a music platform that offers a vast catalog of music accessible to users across various countries. The platform provides key functionalities such as user profile management, playlist creation, and seamless music streaming.
 ## Key Functionalities
 
 1. **User Management:**
